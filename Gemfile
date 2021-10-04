@@ -1,6 +1,8 @@
- # Gemfile
-source "https://rubygems.org/"
+# Gemfile
+source 'https://rubygems.org/'
 
-gem "mechanize"
-gem "nokogiri"
+gem 'mechanize'
+gem 'nokogiri'
+gem 'open-uri'
+gem 'rest-client'
 
